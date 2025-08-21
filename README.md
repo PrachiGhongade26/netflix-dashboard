@@ -27,9 +27,8 @@ It uncovers insights into Netflix’s content library such as:
 - *Dataset* – Netflix Titles (Kaggle)  
 - *DAX* – Measures & calculated columns
 
-- ## 📂 Download Dashboard  
-[📥 Download Dashboard](Netflix_Dashboard.pbix)
-(Open in Power BI Desktop to explore the interactive report)  
+
+
 
 ---
 
