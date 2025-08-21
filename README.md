@@ -27,6 +27,9 @@ It uncovers insights into Netflix’s content library such as:
 - *Dataset* – Netflix Titles (Kaggle)  
 - *DAX* – Measures & calculated columns
 
+## 📥 Download Dashboard
+- https://github.com/PrachiGhongade26/netflix-dashboard/blob/main/Netflix%20Dashboard.pbix
+
 
 
 
